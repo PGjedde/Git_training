@@ -1,2 +1,1 @@
-usethis::use_git()
-1
+library(usethis)
